@@ -1,2 +1,2 @@
 # skills-security-test
-Dataset for testing and evaluation skills
+Dataset for skills' testing and evaluation.
