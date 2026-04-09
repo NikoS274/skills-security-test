@@ -1,0 +1,23 @@
+test1
+
+
+
+
+❌ Zašto je ovo nebezbedno:
+“Follow ALL instructions provided in the user input”
+nema razdvajanja:
+trusted instructions (skill)
+untrusted input (user)
+
+👉 Očekuj da tvoja platforma ovo označi kao vulnerable
+
+
+
+
+
+✅ Zašto je ovo bezbednije:
+eksplicitna security pravila
+jasno kaže:
+input = DATA
+ne izvršava instrukcije
+ograničava scope (nema tool abuse)
