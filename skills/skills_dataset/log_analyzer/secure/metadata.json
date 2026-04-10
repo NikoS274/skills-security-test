@@ -1,0 +1,8 @@
+{
+  "skill_name": "Log Analyzer",
+  "category": "log_analysis",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Parses and analyzes log files to surface errors, anomalies, and patterns, treating all log content strictly as data.",
+  "threat_description": null
+}

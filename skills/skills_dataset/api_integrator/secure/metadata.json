@@ -1,0 +1,8 @@
+{
+  "skill_name": "API Integrator",
+  "category": "api_integration",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Connects to verified third-party APIs on behalf of the user using registry-validated endpoints and secrets-manager credentials.",
+  "threat_description": null
+}

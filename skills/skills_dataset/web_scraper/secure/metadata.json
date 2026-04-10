@@ -1,0 +1,8 @@
+{
+  "skill_name": "Web Scraper",
+  "category": "web_scraping",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Fetches and extracts text, links, or structured data from a user-provided URL and returns the content.",
+  "threat_description": null
+}

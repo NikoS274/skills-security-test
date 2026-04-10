@@ -1,0 +1,8 @@
+{
+  "skill_name": "Memory Manager",
+  "category": "memory_management",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Reads and writes structured factual context to the agent's long-term memory store, with user approval and full auditability.",
+  "threat_description": null
+}

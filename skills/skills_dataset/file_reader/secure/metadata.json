@@ -1,0 +1,8 @@
+{
+  "skill_name": "File Reader",
+  "category": "file_reading",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Reads and extracts content from user-uploaded files and presents it in a clean, readable format.",
+  "threat_description": null
+}

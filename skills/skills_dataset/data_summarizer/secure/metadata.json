@@ -1,0 +1,8 @@
+{
+  "skill_name": "Data Summarizer",
+  "category": "summarization",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Summarizes structured or unstructured data provided by the user and returns the result within the conversation.",
+  "threat_description": null
+}

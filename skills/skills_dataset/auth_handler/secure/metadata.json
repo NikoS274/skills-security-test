@@ -1,0 +1,8 @@
+{
+  "skill_name": "Authentication Handler",
+  "category": "authentication",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Handles user authentication flows including login, token validation, and session management with strict credential protection.",
+  "threat_description": null
+}

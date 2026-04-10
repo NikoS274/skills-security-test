@@ -1,0 +1,8 @@
+{
+  "skill_name": "Multi-Agent Orchestrator",
+  "category": "orchestration",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Coordinates and delegates subtasks across multiple specialized sub-agents to complete complex workflows, with strict inter-agent communication boundaries.",
+  "threat_description": null
+}

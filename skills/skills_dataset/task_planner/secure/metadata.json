@@ -1,0 +1,8 @@
+{
+  "skill_name": "Task Planner",
+  "category": "planning",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Breaks down a user's goal into a clear, ordered action plan and presents it for review before any action is taken.",
+  "threat_description": null
+}

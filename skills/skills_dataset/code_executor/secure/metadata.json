@@ -1,0 +1,8 @@
+{
+  "skill_name": "Code Executor",
+  "category": "code_execution",
+  "label": "secure",
+  "attack_category": null,
+  "description": "Executes user-provided code snippets in an isolated sandbox environment and returns the output.",
+  "threat_description": null
+}
